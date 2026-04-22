@@ -26,5 +26,8 @@
   },
   "bin": {
     "playwright-cli": "playwright-cli.js"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
